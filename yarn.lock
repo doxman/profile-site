@@ -2,6 +2,17 @@
 # yarn lockfile v1
 
 
+"@zeoxyman/slide-puzzle-react@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@zeoxyman/slide-puzzle-react/-/slide-puzzle-react-0.0.2.tgz#2f1c1a328e417da33e90be73a8766f1238e8dddf"
+  dependencies:
+    css-loader "^0.28.7"
+    react "^16.2.0"
+    shortid "^2.2.8"
+    style-loader "^0.19.0"
+    svg-url-loader "^2.3.0"
+    webpack "^2.6.1"
+
 "@zeoxyman/tictactoe-react@^0.1.5":
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/@zeoxyman/tictactoe-react/-/tictactoe-react-0.1.7.tgz#9abb7bdeed55f1b37bb3b421f6b6cc72e5db1ff2"
