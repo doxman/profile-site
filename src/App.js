@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import TicTacToe from '@zeoxyman/tictactoe-react';
 import SlidePuzzle from '@zeoxyman/slide-puzzle-react';
+import RisingSunPuzzle from '@zeoxyman/rising-sun-puzzle-component';
 import './App.css';
 
 class App extends Component {
@@ -9,6 +10,7 @@ class App extends Component {
       <div className="container">
         <TicTacToe />
         <SlidePuzzle />
+        <RisingSunPuzzle />
       </div>
     );
   }

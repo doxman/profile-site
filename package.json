@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@zeoxyman/slide-puzzle-react": "^0.0.9",
+    "@zeoxyman/rising-sun-puzzle-component": "^0.1.0",
     "@zeoxyman/tictactoe-react": "^0.1.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
